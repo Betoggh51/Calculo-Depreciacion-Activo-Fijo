@@ -1,0 +1,12 @@
+C:\Users\betog\OneDrive\Desktop\Algoritmos\C#\propietaria\CalculoDepreciacionActivoFijo\CalculoDepreciacionActivoFijo\bin\Debug\CalculoDepreciacionActivoFijo.exe.config
+C:\Users\betog\OneDrive\Desktop\Algoritmos\C#\propietaria\CalculoDepreciacionActivoFijo\CalculoDepreciacionActivoFijo\bin\Debug\CalculoDepreciacionActivoFijo.exe
+C:\Users\betog\OneDrive\Desktop\Algoritmos\C#\propietaria\CalculoDepreciacionActivoFijo\CalculoDepreciacionActivoFijo\bin\Debug\CalculoDepreciacionActivoFijo.pdb
+C:\Users\betog\OneDrive\Desktop\Algoritmos\C#\propietaria\CalculoDepreciacionActivoFijo\CalculoDepreciacionActivoFijo\obj\Debug\CalculoDepreciacionActivoFijo.csprojAssemblyReference.cache
+C:\Users\betog\OneDrive\Desktop\Algoritmos\C#\propietaria\CalculoDepreciacionActivoFijo\CalculoDepreciacionActivoFijo\obj\Debug\CalculoDepreciacionActivoFijo.Properties.Resources.resources
+C:\Users\betog\OneDrive\Desktop\Algoritmos\C#\propietaria\CalculoDepreciacionActivoFijo\CalculoDepreciacionActivoFijo\obj\Debug\CalculoDepreciacionActivoFijo.csproj.GenerateResource.cache
+C:\Users\betog\OneDrive\Desktop\Algoritmos\C#\propietaria\CalculoDepreciacionActivoFijo\CalculoDepreciacionActivoFijo\obj\Debug\CalculoDepreciacionActivoFijo.csproj.CoreCompileInputs.cache
+C:\Users\betog\OneDrive\Desktop\Algoritmos\C#\propietaria\CalculoDepreciacionActivoFijo\CalculoDepreciacionActivoFijo\obj\Debug\CalculoDepreciacionActivoFijo.exe
+C:\Users\betog\OneDrive\Desktop\Algoritmos\C#\propietaria\CalculoDepreciacionActivoFijo\CalculoDepreciacionActivoFijo\obj\Debug\CalculoDepreciacionActivoFijo.pdb
+C:\Users\betog\OneDrive\Desktop\Algoritmos\C#\propietaria\CalculoDepreciacionActivoFijo\CalculoDepreciacionActivoFijo\obj\Debug\CalculoDepreciacionActivoFijo.LineaRecta.resources
+C:\Users\betog\OneDrive\Desktop\Algoritmos\C#\propietaria\CalculoDepreciacionActivoFijo\CalculoDepreciacionActivoFijo\obj\Debug\CalculoDepreciacionActivoFijo.Main.resources
+C:\Users\betog\OneDrive\Desktop\Algoritmos\C#\propietaria\CalculoDepreciacionActivoFijo\CalculoDepreciacionActivoFijo\obj\Debug\CalculoDepreciacionActivoFijo.DigitoAños.resources
